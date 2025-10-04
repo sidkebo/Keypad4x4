@@ -38,6 +38,14 @@ void loop() {
     }
 }
 ```
+
+## Online Simulation / Simulación en línea
+
+You can try the Keypad4x4 library in a Wokwi simulation:  
+
+https://wokwi.com/projects/442738021011978241?authuser=0
+
+
 ## Pinout Example / Ejemplo de conexión
 
 Row | GPIO | Column | GPIO
@@ -48,5 +56,6 @@ R3  |  14  |   C3   |  33
 R4  |  27  |   C4   |  32
 
 ## License / Licencia
+
 
 This project is released under the MIT License.
